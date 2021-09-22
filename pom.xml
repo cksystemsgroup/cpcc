@@ -334,7 +334,7 @@
 			<dependency>
 				<groupId>de.grundid.opendatalab</groupId>
 				<artifactId>geojson-jackson</artifactId>
-				<version>1.3</version>
+				<version>1.14</version>
 			</dependency>
 
 			<dependency>
