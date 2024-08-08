@@ -78,7 +78,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<rosjava-version>0.0.6</rosjava-version>
 		<servlet-api-release-version>3.0-alpha-1</servlet-api-release-version>
-		<slf4j-version>2.0.13</slf4j-version>
+		<slf4j-version>2.0.15</slf4j-version>
 		<snakeyaml-version>2.2</snakeyaml-version>
 		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
 		<tapestry-release-version>5.8.6</tapestry-release-version>
