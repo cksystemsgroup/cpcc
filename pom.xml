@@ -72,7 +72,7 @@
 		<junit.jupiter.platform.version>1.12.2</junit.jupiter.platform.version>
 		<liquibase-version>4.31.1</liquibase-version>
 		<logback-version>1.5.18</logback-version>
-		<mockito-version>5.17.0</mockito-version>
+		<mockito-version>5.18.0</mockito-version>
 		<mockito-inline.version>5.2.0</mockito-inline.version>
 		<mockserver-version>5.15.0</mockserver-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
