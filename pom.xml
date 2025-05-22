@@ -70,7 +70,7 @@
 		<javax.mail.version>1.4.7</javax.mail.version>
 		<junit.jupiter.version>5.12.2</junit.jupiter.version>
 		<junit.jupiter.platform.version>1.12.2</junit.jupiter.platform.version>
-		<liquibase-version>4.31.1</liquibase-version>
+		<liquibase-version>4.32.0</liquibase-version>
 		<logback-version>1.5.18</logback-version>
 		<mockito-version>5.18.0</mockito-version>
 		<mockito-inline.version>5.2.0</mockito-inline.version>
