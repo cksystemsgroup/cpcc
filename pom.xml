@@ -79,7 +79,7 @@
 		<rosjava-version>0.0.6</rosjava-version>
 		<servlet-api-release-version>3.0-alpha-1</servlet-api-release-version>
 		<slf4j-version>2.0.17</slf4j-version>
-		<snakeyaml-version>2.4</snakeyaml-version>
+		<snakeyaml-version>2.5</snakeyaml-version>
 		<sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
 		<tapestry-release-version>5.9.0</tapestry-release-version>
 		<tomcat.version>9.0.108</tomcat.version>
