@@ -68,8 +68,8 @@
 		<jackson.version>2.20.0</jackson.version>
 		<java-version>11</java-version>
 		<javax.mail.version>1.4.7</javax.mail.version>
-		<junit.jupiter.version>5.13.4</junit.jupiter.version>
-		<junit.jupiter.platform.version>1.13.4</junit.jupiter.platform.version>
+		<junit.jupiter.version>5.14.0</junit.jupiter.version>
+		<junit.jupiter.platform.version>1.14.0</junit.jupiter.platform.version>
 		<liquibase-version>5.0.0</liquibase-version>
 		<logback-version>1.5.18</logback-version>
 		<mockito-version>5.20.0</mockito-version>
