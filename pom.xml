@@ -74,7 +74,7 @@
 		<logback-version>1.5.34</logback-version>
 		<mockito-version>5.23.0</mockito-version>
 		<mockito-inline.version>5.2.0</mockito-inline.version>
-		<mockserver-version>7.0.0</mockserver-version>
+		<mockserver-version>7.1.0</mockserver-version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<rosjava-version>0.0.6</rosjava-version>
 		<servlet-api-release-version>3.0-alpha-1</servlet-api-release-version>
