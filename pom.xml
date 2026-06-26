@@ -71,7 +71,7 @@
 		<junit.jupiter.version>6.1.0</junit.jupiter.version>
 		<junit.jupiter.platform.version>6.1.0</junit.jupiter.platform.version>
 		<liquibase-version>5.0.3</liquibase-version>
-		<logback-version>1.5.36</logback-version>
+		<logback-version>1.5.37</logback-version>
 		<mockito-version>5.23.0</mockito-version>
 		<mockito-inline.version>5.2.0</mockito-inline.version>
 		<mockserver-version>7.2.0</mockserver-version>
